@@ -1,1 +1,3 @@
 # Repozytorium
+
+Ciekawe wiadomości

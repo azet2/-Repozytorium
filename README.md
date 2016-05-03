@@ -1,3 +1,5 @@
 # Repozytorium
 
-Ciekawe wiadomości
+Ciekawe wiadomości - z kraju i ze świata ;-)
+
+

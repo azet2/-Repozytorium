@@ -10,3 +10,5 @@ Programy:
 **Program 1 ściągniemy tu:** http://www.websitex5.com/pl/demo---thanks-2.html
 
 **Program 2 ściągniemy tu:** http://www.totalcommander.pl/pobierz-total-commander/
+
+W programie 

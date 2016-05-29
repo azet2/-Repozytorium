@@ -1,6 +1,6 @@
 ## Repozytorium
 
-('Strona WWW')
+Strona WWW
 
 Programy:
 

@@ -34,4 +34,7 @@ Teraz musimy umieścić nasze "wypociny" na zewnętrznych serwerach - np. https:
 
 **Teraz przejdziemy do konfiguracji programu Total Commander.** Na przykładize strony [FPCP](http://www.psychotraumatologia.com.pl/)
 
+ -------------------------------------------------------------------------------------------------------------------
 ![zdjęcie] (Zdjęcie_4.JPG)
+
+  • Z nazwa.pl z zakładki

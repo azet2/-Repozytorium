@@ -15,5 +15,8 @@ Programy:
 
  ![zdjęcie](Zdjęcie _1.JPG)
 
-Teraz musimy umieścić nasze "wypociny" na zewnętrznych serwerach - np. ja wybrałem nazwa.pl. 
+Teraz musimy umieścić nasze "wypociny" na zewnętrznych serwerach - np. https://www.nazwa.pl/
+Tam też rejestrujemy domenę i wybieramy hosting:
+
+
 

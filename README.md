@@ -21,3 +21,6 @@ Teraz musimy umieścić nasze "wypociny" na zewnętrznych serwerach - np. https:
 
 ![zdjęcie] (Zdjęcie_2.JPG)
 
+Wybieramy Hosting - tu trzeba trochę wydać na abonament roczny:
+
+

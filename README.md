@@ -23,4 +23,4 @@ Teraz musimy umieścić nasze "wypociny" na zewnętrznych serwerach - np. https:
 
 **Wybieramy Hosting** - tu trzeba trochę wydać na abonament roczny:
 
-
+![zdjęcie] (Zdjęcie_3.JPG)

@@ -49,3 +49,6 @@ Teraz musimy umieścić nasze "wypociny" na zewnętrznych serwerach - np. https:
 :-------------------:|:-------------------|-------------------:
                    WebSite X5 |    250 PLN         |     Polski
                    Total Commander |      0 PLN         |     Polski
+
+
+                      

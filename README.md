@@ -41,3 +41,11 @@ Teraz musimy umieścić nasze "wypociny" na zewnętrznych serwerach - np. https:
   
   -------------------------------------------------------------------------------------------------------------------
   ![zdjęcie] (Zdjęcie_5.JPG)
+
+    Teraz wystarczy skopiować zawarośc naszej utworzonej strony www na serwer nazwa.pl za pomocą Total Commandera przez FTP
+    Prosto - po Polsku i dla początkujących w zupełności wystarczy. Miłej nauki i zabawy.
+
+  Ilość Programów    |        Koszt       |       Język
+:-------------------:|:-------------------|-------------------:
+                   WebSite X5 |    250 PLN         |     Polski
+                   Total Commander |      0 PLN         |     Polski

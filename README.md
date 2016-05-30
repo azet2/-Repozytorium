@@ -37,4 +37,7 @@ Teraz musimy umieścić nasze "wypociny" na zewnętrznych serwerach - np. https:
  -------------------------------------------------------------------------------------------------------------------
 ![zdjęcie] (Zdjęcie_4.JPG)
 
-  Ze strony www.nazwa.pl z zakładki [Panel Klienta](https://konto.nazwa.pl/zaloguj-sie.html?redirectUrl=https%3A%2F%2Fpanel.nazwa.pl%2F&skipGenerateAutologinToken=1); otrzymamy wszystkie potrzebne dane
+  Ze strony www.nazwa.pl z zakładki [Panel Klienta](https://konto.nazwa.pl/zaloguj-sie.html?redirectUrl=https%3A%2F%2Fpanel.nazwa.pl%2F&skipGenerateAutologinToken=1); otrzymamy wszystkie potrzebne dane do utworzenia nowego połączenia FTP - u mnie wygląda to tak:
+  
+  -------------------------------------------------------------------------------------------------------------------
+  ![zdjęcie] (Zdjęcie_5.JPG)
